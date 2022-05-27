@@ -1,3 +1,10 @@
+---
+title: AWS - EC2
+season: summer
+tags: AWS
+toc: true
+comments: true
+---
 # AWS EC2
 Armado de Red para EC2 [[AWS - Networking]]
 
