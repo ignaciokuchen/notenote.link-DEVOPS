@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "9b54a73f443198c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c47605fcea5ead68",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/HOLA MARTE.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a24514b6ef821514",
+    "type": "split",
+    "children": [
+      {
+        "id": "56de015dab17858d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24abc595b109446b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79b8cd7dd48d8a25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef377e176323af79",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d549ec67ac6039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2749687280ae0286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/HOLA MARTE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c47605fcea5ead68",
+  "lastOpenFiles": [
+    "_notes/HOLA MARTE.md"
+  ]
+}
