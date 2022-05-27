@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/HOLA MARTE.md",
+            "file": "_notes/Ross/Cloud keys.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/HOLA MARTE.md",
+                "file": "_notes/Ross/Cloud keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,13 @@
   },
   "active": "c47605fcea5ead68",
   "lastOpenFiles": [
+    "_notes/Ross/Cloud keys.md",
+    "_notes/Devops/Cloud/Terraforms - EC2.md",
+    "_notes/Devops/Cloud/Packer.md",
+    "_notes/Herramientas/Mobaxterm.md",
+    "_notes/How to use the special features.md",
+    "_notes/Herramientas/Cómo proteger Nginx con Let´s Encrypt en Ubuntu 20.04.md",
+    "_notes/Devops/Cloud/AWS - EC2.md",
     "_notes/HOLA MARTE.md"
   ]
 }

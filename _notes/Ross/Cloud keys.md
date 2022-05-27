@@ -1,4 +1,0 @@
-#AWS
-Keys
-public: AKIARC37HPOQ2OR6WQHF
-privacy: FY5WNQoSh+1wcFWLRmdyqfZkDTyCaxlIyMH9sCBw
