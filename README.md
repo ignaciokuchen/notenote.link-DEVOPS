@@ -52,8 +52,8 @@ Things to modify to make it yours:
 - The main stuff is in [\_config.yml](_config.yml):
     ```yaml
     title: notenotelink.netlify.com
-    name: notenote.link
-    user_description: My linked notebook
+    name: DEVOPS
+    user_description: My linked DEVOPS
 
     notes_url: "https://notenotelink.netlify.com/"
     profile_pic: /assets/img/profile.png

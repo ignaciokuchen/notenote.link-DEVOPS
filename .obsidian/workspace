@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Devops/Dockers/Primero pasos en docker.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "key",
+                "query": "my link",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Devops/Dockers/Primero pasos en docker.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c47605fcea5ead68",
   "lastOpenFiles": [
+    "README.md",
+    "_notes/how-markdown-is-rendered.md",
+    "_notes/How-to-setup-this-site.md",
+    "_notes/Obsidian integration.md",
     "_notes/Devops/Dockers/Primero pasos en docker.md",
     "_notes/Devops/Pipeline/texto.md",
     "_notes/Devops/Dockers/Docker - Configuraciones varias.md",
     "_notes/Devops/Dockers/Docker - Comandos Rapidos.md",
     "_notes/Devops/Cloud/Terraforms - VPC.md",
-    "_notes/Desarrollo/Python.md",
-    "_notes/Desarrollo/JavaScript.md",
-    "_notes/Desarrollo/Programacion Orientada a Objeto.md",
-    "_notes/Devops/Cloud/Packer.md",
-    "_notes/Devops/Cloud/Terraform - EC2.md"
+    "_notes/Desarrollo/Python.md"
   ]
 }
