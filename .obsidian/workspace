@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_notes/Desarrollo/Programacion Orientada a Objeto.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Desarrollo/Programacion Orientada a Objeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "c47605fcea5ead68",
   "lastOpenFiles": [
+    "_notes/Desarrollo/Programacion Orientada a Objeto.md",
+    "_notes/Desarrollo/JavaScript.md",
     "README.md",
     "_notes/how-markdown-is-rendered.md",
     "_notes/How-to-setup-this-site.md",
@@ -95,8 +97,6 @@
     "_notes/Devops/Dockers/Primero pasos en docker.md",
     "_notes/Devops/Pipeline/texto.md",
     "_notes/Devops/Dockers/Docker - Configuraciones varias.md",
-    "_notes/Devops/Dockers/Docker - Comandos Rapidos.md",
-    "_notes/Devops/Cloud/Terraforms - VPC.md",
-    "_notes/Desarrollo/Python.md"
+    "_notes/Devops/Dockers/Docker - Comandos Rapidos.md"
   ]
 }
