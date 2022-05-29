@@ -1,3 +1,10 @@
+---
+title: Docker - Configuraciones varias
+season: summer
+tags: Devops, Docker, Configuraciones, Cloud, Network
+toc: true
+comments: true
+---
 # Docker - Compose 
 ## Network:
 ### HOST - Network

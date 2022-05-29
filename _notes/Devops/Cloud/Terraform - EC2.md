@@ -1,3 +1,10 @@
+---
+title: Terraform - EC2
+season: summer
+tags: Devops, Terraform, EC2, Cloud
+toc: true
+comments: true
+---
 # Crear una instancia en AWS desde Terraform 
 
 ### Primero Instalamos Terraform

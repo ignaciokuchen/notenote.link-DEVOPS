@@ -67,7 +67,7 @@ Mac
 [https://www.terraform.io/docs/cli/index.html](https://www.terraform.io/docs/cli/index.html)
 
 #### Crear y editar un archivo que se llame main.tf
-[[Terraforms - EC2]]
+[[../Devops/Cloud/Terraform - EC2]]
 [[Terraforms - VPC]]
 
 

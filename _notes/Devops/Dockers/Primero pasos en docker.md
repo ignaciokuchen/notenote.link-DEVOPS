@@ -1,3 +1,11 @@
+
+---
+title: Docker - Primero pasos en docker
+season: summer
+tags: Devops, Docker, Configuraciones, Cloud
+toc: true
+comments: true
+---
 Si no tenes docker instalado, ver paso: [[Como instalar y usar Docker en Ubuntu 20.04]] 
 ## Paso 2 : Ejecutar el comando Docker sin sudo (opcional)
 

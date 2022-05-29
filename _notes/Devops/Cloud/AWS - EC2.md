@@ -1,10 +1,11 @@
 ---
 title: AWS - EC2
 season: summer
-tags: AWS
+tags: AWS, Cloud, Devops, EC2
 toc: true
 comments: true
 ---
+
 # AWS EC2
 Armado de Red para EC2 [[AWS - Networking]]
 

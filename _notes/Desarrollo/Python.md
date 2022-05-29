@@ -1,3 +1,10 @@
+---
+title: Python
+season: summer
+tags: Desarrollo, Python
+toc: true
+comments: true
+---
 # Python
 
 ## Listas => Arrays []

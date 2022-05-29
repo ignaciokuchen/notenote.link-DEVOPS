@@ -1,3 +1,10 @@
+---
+title: Docker - Comandos Rapidos
+season: summer
+tags: Devops, Docker, Comandos, Cloud
+toc: true
+comments: true
+---
 insdocker search `nombre_de_imagen_disponible_en_dockerhub`(busca en docker hub)
 docker  pull `nombre_de_imagen` (descarga) 
 docker run `nombre_de_imagen` (descarga y ejecucion)

@@ -1,3 +1,11 @@
+---
+title: AWS - Networking
+season: summer
+tags: Devops, AWS, Networking, Cloud
+toc: true
+comments: true
+---
+
 # VPC (Virtual Private Cloud)
 ## Amazon Virtual Private Cloud (Amazon VPC) le permite lanzar recursos de AWS en una red virtual que defina. Dicha red virtual es prácticamente idéntica a las redes tradicionales que se utilizan en sus propios centros de datos, con los beneficios que supone utilizar la infraestructura escalable de AWS
 

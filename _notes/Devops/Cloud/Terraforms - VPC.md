@@ -1,4 +1,11 @@
-****# Crear una VPC desde terraform
+---
+title: Terraform - VPC
+season: summer
+tags: Devops, Terraform, VPC, Cloud
+toc: true
+comments: true
+---
+# Crear una VPC desde terraform
 
 ## Primero hay que tener instalado Terraform 
 [[Codigo como infra - Terraform - Packer]]

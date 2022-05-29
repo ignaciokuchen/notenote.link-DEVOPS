@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Devops/Cloud/AWS - EC2.md",
-            "mode": "source"
+            "file": "_notes/Devops/Dockers/Primero pasos en docker.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Devops/Cloud/AWS - EC2.md",
+                "file": "_notes/Devops/Dockers/Primero pasos en docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "c47605fcea5ead68",
   "lastOpenFiles": [
-    "_notes/Devops/Cloud/AWS - EC2.md",
-    "_notes/HOLA MARTE.md",
-    "_notes/Ross/Cloud keys.md",
-    "_notes/Devops/Cloud/Terraforms - EC2.md",
+    "_notes/Devops/Dockers/Primero pasos en docker.md",
+    "_notes/Devops/Pipeline/texto.md",
+    "_notes/Devops/Dockers/Docker - Configuraciones varias.md",
+    "_notes/Devops/Dockers/Docker - Comandos Rapidos.md",
+    "_notes/Devops/Cloud/Terraforms - VPC.md",
+    "_notes/Desarrollo/Python.md",
+    "_notes/Desarrollo/JavaScript.md",
+    "_notes/Desarrollo/Programacion Orientada a Objeto.md",
     "_notes/Devops/Cloud/Packer.md",
-    "_notes/Herramientas/Mobaxterm.md",
-    "_notes/How to use the special features.md",
-    "_notes/Herramientas/Cómo proteger Nginx con Let´s Encrypt en Ubuntu 20.04.md"
+    "_notes/Devops/Cloud/Terraform - EC2.md"
   ]
 }
