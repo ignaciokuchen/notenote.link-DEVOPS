@@ -3,7 +3,7 @@ name: Devops
 user_description: Ross
 notes_url: "https://notenote.link.netlify.app"
 profile_pic: /assets/img/profile.png
-favicon: /assets/img/ross.png
+favicon: /assets/img/ross.jpg
 copyright_name: Ross
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
