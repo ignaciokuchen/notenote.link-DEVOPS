@@ -1,3 +1,10 @@
+---
+title: Comandos GIT
+season: summer
+tags: AWS, Cloud, Devops, EC2
+toc: true
+comments: true
+---
 ### Copy copio el codigo
 ### Modify modifico el codigo 
 ### Merge fusionar el codigo
