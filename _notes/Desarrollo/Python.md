@@ -1,7 +1,7 @@
 ---
 title: Python
 season: summer
-tags: Desarrollo, Python
+tags: Desarrollo Python
 toc: true
 comments: true
 ---

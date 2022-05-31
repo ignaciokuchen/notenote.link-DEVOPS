@@ -1,7 +1,7 @@
 ---
 title: Programacion Orientada a Objeto
 season: summer
-tags: Desarrollo, POO
+tags: Desarrollo POO
 toc: true
 comments: true
 ---
