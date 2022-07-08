@@ -23,7 +23,9 @@ Nos conectamos desde la terminal eje cutando la siguiente linea de comando:
 	
 1.  Mover la clave a la carpeta ssh de su home
 
-		mv ~/Downloads/platzi-prueba-llave.pem ~/.ssh/.
+		```
+	mv ~/Downloads/platzi-prueba-llave.pem ~/.ssh/.
+	```
 
 
 2.  Cambiar los permisos de la clave
