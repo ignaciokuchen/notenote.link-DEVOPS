@@ -1,3 +1,11 @@
+---
+title: GitLab CI/CD
+season: summer
+tags: CI/CD Gitlab Pipeline Devops Git
+toc: true
+comments: true
+---
+
 GitLab CI/CD es una herramienta para el desarrollo de software utilizando las metodologías continuas. 
 Use GitLab CI/CD para detectar fallas y errores al principio del ciclo de desarrollo. Asegúrese de que todo el código implementado en producción cumpla con los estándares de código que estableció para su aplicación.
 GitLab CI/CD puede compilar, probar, implementar y monitorear automáticamente sus aplicaciones mediante Auto DevOps.

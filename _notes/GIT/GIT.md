@@ -1,3 +1,11 @@
+---
+title: GIT
+season: summer
+tags: Git Devops
+toc: true
+comments: true
+---
+
 <h1> GIT </h1>
 <p>Sistema de gestion versionado.</p>
 

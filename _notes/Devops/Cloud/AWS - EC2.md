@@ -1,7 +1,7 @@
 ---
 title: AWS - EC2
 season: summer
-tags: AWS, Cloud, Devops, EC2
+tags: AWS Cloud Devops EC2
 toc: true
 comments: true
 ---
