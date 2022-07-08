@@ -1,12 +1,12 @@
 title: WikiDevops
 name: Devops 
 user_description: Ross
-notes_url: "https://notenote.link.netlify.app"
+notes_url: "https://wikidevops.netlify.app"
 profile_pic: /assets/img/ross.jpg
 favicon: /assets/img/ross.jpg
 copyright_name: Ross
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wikidevops.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
