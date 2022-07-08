@@ -1,7 +1,7 @@
 ---
 title: Terraform - VPC
 season: summer
-tags: Devops Terraform, VPC, Cloud
+tags: Devops Terraform VPC Cloud
 toc: true
 comments: true
 ---
@@ -17,7 +17,7 @@ comments: true
 	}
 
 ##  Create <u>provider.tf</u>
-### Toda la infraestructura estará en AWS. Si desea utilizar otro proveedor de nube como GCP o Azure, debe cambiar esto.
+### Toda la infraestructura estará en AWS. Si desea utilizar otro proveedor de nube como GCP o Azure debe cambiar esto.
 Usaremos variables en esta demostración. Más tarde, verá el archivo vars.tf y las variables que contiene. Ahora, var.AWS_REGION = eu-west-2 es suficiente.
 
 		provider "aws" {  

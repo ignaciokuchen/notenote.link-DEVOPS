@@ -2,7 +2,7 @@
 ---
 title: Docker - Primero pasos en docker
 season: summer
-tags: Devops Docker, Configuraciones, Cloud
+tags: Devops Docker Configuraciones Cloud
 toc: true
 comments: true
 ---
@@ -134,7 +134,7 @@ Exploremos algunos de estos comandos. Comenzaremos trabajando con imágenes.
 
 ## Paso 4: Trabajar con imágenes de Docker
 
-Los contenedores de Docker se construyen con imágenes de Docker. Por defecto, Docker obtiene estas imágenes de [Docker Hub](https://hub.docker.com/), un registro de Docker gestionado por Docker, la empresa responsable del proyecto Docker. Cualquiera puede alojar sus imágenes en Docker Hub, de modo que la mayoría de las aplicaciones y las distribuciones de Linux que necesitará tendrán imágenes alojadas allí.
+Los contenedores de Docker se construyen con imágenes de Docker. Por defecto, Docker obtiene estas imágenes de [Docker Hub](https://hub.docker.com/), un registro de Docker gestionado por Docker la empresa responsable del proyecto Docker. Cualquiera puede alojar sus imágenes en Docker Hub, de modo que la mayoría de las aplicaciones y las distribuciones de Linux que necesitará tendrán imágenes alojadas allí.
 
 Para verificar si puede acceder a imágenes y descargarlas de Docker Hub, escriba lo siguiente:
 
@@ -348,7 +348,7 @@ Los contenedores pueden convertirse en imágenes que podrá usar para crear cont
 
 ## Paso 7: Confirmar cambios aplicados a una imagen de Docker en un contenedor
 
-Cuando inicie una imagen de Docker, podrá crear, modificar y eliminar archivos del mismo modo que con una máquina virtual. Los cambios que realice solo se aplicarán al contenedor en cuestión. Podrá iniciarlo y detenerlo, pero una vez que lo destruya con el comando `docker rm`, los cambios se perderán por completo.
+Cuando inicie una imagen de Docker podrá crear, modificar y eliminar archivos del mismo modo que con una máquina virtual. Los cambios que realice solo se aplicarán al contenedor en cuestión. Podrá iniciarlo y detenerlo, pero una vez que lo destruya con el comando `docker rm`, los cambios se perderán por completo.
 
 En esta sección verá la forma de guardar el estado de un contenedor como una nueva imagen de Docker.
 
@@ -393,9 +393,9 @@ Ahora, compartiremos la nueva imagen con terceros para que puedan crear contened
 
 ## Paso 8: Introducir imágenes de Docker en un repositorio de Docker
 
-El siguiente paso lógico después de crear una nueva imagen a partir de una imagen existente es compartirla con algunos de sus amigos, con todo el mundo en Docker Hub, o en otro registro de Docker al que tenga acceso. Para introducir una imagen a Docker Hub o a cualquier otro registro de Docker, deberá tener una cuenta en el sistema.
+El siguiente paso lógico después de crear una nueva imagen a partir de una imagen existente es compartirla con algunos de sus amigos, con todo el mundo en Docker Hub, o en otro registro de Docker al que tenga acceso. Para introducir una imagen a Docker Hub o a cualquier otro registro de Docker deberá tener una cuenta en el sistema.
 
-En esta sección verá cómo introducir una imagen de Docker en Docker Hub. Para aprender a crear su propio registro privado de Docker, consulte [Cómo configurar un registro de Docker privado en Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-14-04).
+En esta sección verá cómo introducir una imagen de Docker en Docker Hub. Para aprender a crear su propio registro privado de Docker consulte [Cómo configurar un registro de Docker privado en Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-14-04).
 
 Para introducir su imagen, primero inicie sesión en Docker Hub.
 

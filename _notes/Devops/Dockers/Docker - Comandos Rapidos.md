@@ -1,7 +1,7 @@
 ---
 title: Docker - Comandos Rapidos
 season: summer
-tags: Devops Docker, Comandos, Cloud
+tags: Devops Docker Comandos Cloud
 toc: true
 comments: true
 ---
