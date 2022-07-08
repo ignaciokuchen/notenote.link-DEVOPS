@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Herramientas/PROXY - NGINX.md",
-            "mode": "preview"
+            "file": "_notes/Devops/Pipeline/texto.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Herramientas/PROXY - NGINX.md",
+                "file": "_notes/Devops/Pipeline/texto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "c47605fcea5ead68",
   "lastOpenFiles": [
+    "_notes/Devops/Pipeline/texto.md",
+    "_notes/Devops/Dockers/Docker - Comandos Rapidos.md",
     "_notes/Herramientas/PROXY - NGINX.md",
     "_notes/Devops/Cloud/AWS - EC2.md",
     "_notes/Desarrollo/Programacion Orientada a Objeto.md",
@@ -95,8 +97,6 @@
     "_notes/Devops/Cloud/AWS - Networking.md",
     "_notes/Devops/Cloud/Packer.md",
     "_notes/Devops/Cloud/Terraform - EC2.md",
-    "_notes/Devops/Cloud/Azure.md",
-    "_notes/Herramientas/Como crear un VPN con Docker-Compose.md",
-    "_notes/Herramientas/Instalar Nginx.md"
+    "_notes/Devops/Cloud/Azure.md"
   ]
 }
