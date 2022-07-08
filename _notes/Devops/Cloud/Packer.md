@@ -1,7 +1,7 @@
 ---
 title: Packer
 season: summer
-tags: Devops, Packer
+tags: Devops Packer
 toc: true
 comments: true
 ---

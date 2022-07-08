@@ -234,3 +234,5 @@ sudo certbot renew --dry-run
 
 
 Si no ve errores, estará listo. Cuando sea necesario, Certbot renovará sus certificados y volverá a cargar Nginx para registrar los cambios. Si el proceso de renovación automática falla, Let’s Encrypt enviará un mensaje a la dirección de correo electrónico que especificó en el que se le advertirá cuándo se aproxime la fecha de vencimiento de sus certificados.
+
+#nginx 

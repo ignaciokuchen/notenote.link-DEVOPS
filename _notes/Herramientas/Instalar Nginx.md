@@ -336,3 +336,4 @@ Now that you know how to manage the Nginx service itself, you should take a few 
 -   `/var/log/nginx/error.log`: Any Nginx errors will be recorded in this log.
 
 [[Cómo proteger Nginx con Let´s Encrypt en Ubuntu 20.04]]
+#nginx 

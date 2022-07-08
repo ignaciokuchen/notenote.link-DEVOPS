@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/GIT/Comandos GIT.md",
-            "mode": "source"
+            "file": "_notes/Herramientas/PROXY - NGINX.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "my link",
+                "query": "tag:#nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/GIT/Comandos GIT.md",
+                "file": "_notes/Herramientas/PROXY - NGINX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c47605fcea5ead68",
   "lastOpenFiles": [
-    "_notes/GIT/Comandos GIT.md",
+    "_notes/Herramientas/PROXY - NGINX.md",
     "_notes/Devops/Cloud/AWS - EC2.md",
-    "_notes/GIT/GIT.md",
-    "_notes/Devops/Cloud/AWS - Networking.md",
-    "_notes/Ross/Codigo como infra - Terraform - Packer.md",
-    "_notes/Devops/Cloud/Terraform - EC2.md",
-    "_notes/Devops/Cloud/Terraforms - VPC.md",
-    "_notes/Devops/Cloud/Azure.md",
+    "_notes/Desarrollo/Programacion Orientada a Objeto.md",
     "_notes/Desarrollo/Python.md",
-    "_notes/Desarrollo/JavaScript.md"
+    "_notes/Devops/Cloud/AWS - Networking.md",
+    "_notes/Devops/Cloud/Packer.md",
+    "_notes/Devops/Cloud/Terraform - EC2.md",
+    "_notes/Devops/Cloud/Azure.md",
+    "_notes/Herramientas/Como crear un VPN con Docker-Compose.md",
+    "_notes/Herramientas/Instalar Nginx.md"
   ]
 }

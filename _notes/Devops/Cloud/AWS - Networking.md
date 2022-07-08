@@ -1,7 +1,7 @@
 ---
 title: AWS - Networking
 season: summer
-tags: Devops, AWS, Networking, Cloud
+tags: Devops AWS Networking Cloud
 toc: true
 comments: true
 ---

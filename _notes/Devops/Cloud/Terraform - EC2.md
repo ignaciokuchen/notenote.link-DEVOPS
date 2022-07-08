@@ -1,7 +1,7 @@
 ---
 title: Terraform - EC2
 season: summer
-tags: Devops, Terraform, EC2, Cloud
+tags: Devops Terraform EC2 Cloud
 toc: true
 comments: true
 ---
