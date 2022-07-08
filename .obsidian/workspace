@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Devops/Cloud/AWS - EC2.md",
+            "file": "_notes/Devops/Cloud/Packer.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Devops/Cloud/AWS - EC2.md",
+                "file": "_notes/Devops/Cloud/Packer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c47605fcea5ead68",
   "lastOpenFiles": [
+    "_notes/Devops/Cloud/Packer.md",
+    "_notes/Devops/Cloud/Azure.md",
+    "_notes/Devops/Cloud/AWS - Networking.md",
     "_notes/Devops/Cloud/AWS - EC2.md",
     "_notes/Herramientas/PROXY - NGINX.md",
     "_notes/Devops/Pipeline/texto.md",
     "_notes/Devops/Dockers/Docker - Comandos Rapidos.md",
     "_notes/Desarrollo/Programacion Orientada a Objeto.md",
     "_notes/Desarrollo/Python.md",
-    "_notes/Devops/Cloud/AWS - Networking.md",
-    "_notes/Devops/Cloud/Packer.md",
-    "_notes/Devops/Cloud/Terraform - EC2.md",
-    "_notes/Devops/Cloud/Azure.md"
+    "_notes/Devops/Cloud/Terraform - EC2.md"
   ]
 }

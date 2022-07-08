@@ -148,7 +148,8 @@ code {
 
 .regular-sans code {
     padding: 20px;
-    background-color: #f7f7f7;
+    background-color: #000000;
+    color: #fff;
     border-radius: 5px;
     border: none;
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
