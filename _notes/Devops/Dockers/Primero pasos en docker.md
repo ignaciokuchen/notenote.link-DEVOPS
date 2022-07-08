@@ -2,7 +2,7 @@
 ---
 title: Docker - Primero pasos en docker
 season: summer
-tags: Devops, Docker, Configuraciones, Cloud
+tags: Devops Docker, Configuraciones, Cloud
 toc: true
 comments: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Terraform - VPC
 season: summer
-tags: Devops, Terraform, VPC, Cloud
+tags: Devops Terraform, VPC, Cloud
 toc: true
 comments: true
 ---

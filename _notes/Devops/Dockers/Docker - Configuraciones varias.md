@@ -1,7 +1,7 @@
 ---
 title: Docker - Configuraciones varias
 season: summer
-tags: Devops, Docker, Configuraciones, Cloud, Network
+tags: Devops Docker, Configuraciones, Cloud, Network
 toc: true
 comments: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Azure
 season: summer
-tags: Devops, Azure, Cloud
+tags: Devops Azure, Cloud
 toc: true
 comments: true
 ---
